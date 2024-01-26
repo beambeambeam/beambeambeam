@@ -2,10 +2,8 @@
 
 <h3 align="left">Hey I'm beam <br><h1>Here's my world</h1></h3>
 
-Website: soon <br>
-Blog: soon <br>
-
-Currently find a university to attened!
+I got it! <br/>
+KMUTT CPE38
 
 I run almost everyday 🏃 <br>
 I workout a ton too 💪 <br>
