@@ -16,5 +16,4 @@ Find my way to Fullstack/MLOps 🤓☝
 
 This are my third account here's an old one! <br>
 
-- [Beamlnwza](https://github.com/Beamlnwza)
-- [Bermlnwza](https://github.com/Bermlnwza) both are same person, It's me!
+- [Beamlnwza](https://github.com/Beamlnwza),[Bermlnwza](https://github.com/Bermlnwza) both are same person, It's me!
