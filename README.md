@@ -9,8 +9,8 @@
  ░  ░░ ░   ░   ▒ ▒ ░░      ▒  ░░      ░     ░    ░    ░    ░   ▒   ░      ░       ░
  ░  ░  ░   ░  ░░ ░         ░         ░     ░         ░  ░     ░  ░       ░    ░
                ░ ░
-Freshmen, Passion in Software Engineering, Arts, currently need someone to be in my life too. <br>
-base in Base in 13.7563° N, 100.5018° E <br>
+Freshmen, Passion in Software Engineering, Arts, currently need someone to be in my life too.
+Base in 13.7563° N, 100.5018° E
 BANGKOK, THAILAND (GMT+7)
 ```
 
@@ -61,6 +61,7 @@ BANGKOK, THAILAND (GMT+7)
 
 ```js
 Contact.
+website & blog -> still find a money for domain
 mail -> supawitmarayat@gmail.com
 twitter -> @beambeambeam007
 ```
