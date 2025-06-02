@@ -9,7 +9,7 @@
  ░  ░░ ░   ░   ▒ ▒ ░░      ▒    ░░      ░        ░    ░    ░    ░   ▒   ░      ░       ░
  ░  ░  ░   ░  ░░ ░         ░           ░        ░         ░  ░     ░  ░       ░    ░
                ░ ░
-Freshmen, Passion in Software Engineering, Arts, currently need someone to be in my life too.
+Freshmen, Passion in Software Engineering and Design..
 Base in 13.7563° N, 100.5018° E
 BANGKOK, THAILAND (GMT+7)
 ```
@@ -17,9 +17,9 @@ BANGKOK, THAILAND (GMT+7)
 ###
 
 ```js
-- with love ❔ everyday .tsx .ts
-- still figure out .rs .go and .c!
-- ton of design stuff with .ai .psd .mp4 and figma 🖌
+- with love ❔ everyday .tsx .ts all the web essential.
+- still figure out .rs .go .c amd .cpp!
+- ton of design stuff with .ai .psd and figma 🖌
 ```
 
 ###
