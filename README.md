@@ -9,7 +9,7 @@
  ░  ░░ ░   ░   ▒ ▒ ░░      ▒    ░░      ░        ░    ░    ░    ░   ▒   ░      ░       ░
  ░  ░  ░   ░  ░░ ░         ░           ░        ░         ░  ░     ░  ░       ░    ░
                ░ ░
-Freshmen, Passion in Software Engineering and Design..
+Software & Design Engineer
 Base in 13.7563° N, 100.5018° E
 BANGKOK, THAILAND (GMT+7)
 ```
@@ -18,22 +18,13 @@ BANGKOK, THAILAND (GMT+7)
 
 ```js
 - with love ❔ everyday .tsx .ts all the web essential.
-- still figure out .rs .go .c amd .cpp!
-- ton of design stuff with .ai .psd and figma 🖌
+- still figure out .go and .rs and more!
+- ton of design stuff with .ai .psd and .fig 🖌
 ```
 
 ###
 
 ## Current with love stack.
-
-###
-
-<div align="left">
-  <img src="./assets/davinci.svg" height="50" alt="davinci logo"  />
-  <img width="12" />
-  <img src="./assets/figma.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-</div>
 
 ###
 
@@ -50,18 +41,15 @@ BANGKOK, THAILAND (GMT+7)
 
 ###
 
+###
+
 <div align="left">
-  <img src="./assets/react_native.svg" height="50" alt="react native logo"  />
-  <img width="12" />
-  <img src="./assets/expo.svg" height="50" alt="expo logo"  />
+  <img src="./assets/figma.svg" height="50" alt="figma logo"  />
   <img width="12" />
 </div>
 
-###
-
 ```js
-Contact.
-website & blog -> still find a money for domain
-mail -> supawitmarayat@gmail.com
-twitter -> @beambeambeam007
+Get to know me more!
+Email -> hi@thisisbeam.fyi
+Portfolio -> [thisisbeam.fyi](https://thisisbeam.fyi/)
 ```
